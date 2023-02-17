@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alika Tickets v2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="text_comprar_entradas">Comprar entradas</string>
+    <string name="text_mis_entradas">Mis entradas</string>
+    <string name="text_mi_perfil">Mi perfil</string>
+</resources>
